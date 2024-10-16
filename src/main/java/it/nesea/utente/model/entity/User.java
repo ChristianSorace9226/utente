@@ -34,7 +34,6 @@ public class User {
     private Long roleId;
 
 
-
 //    @ManyToMany(fetch = FetchType.EAGER)
 //    @JoinTable(
 //            name = "users_roles",
