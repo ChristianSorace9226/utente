@@ -33,6 +33,8 @@ public class User {
     @Column(nullable = false)
     private Long roleId;
 
+
+
 //    @ManyToMany(fetch = FetchType.EAGER)
 //    @JoinTable(
 //            name = "users_roles",
